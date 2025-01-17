@@ -1,5 +1,5 @@
 # Rojo + Darklua Template
-`
+
 ## Setup
 1. Install [aftman](https://github.com/LPGHatguy/aftman)
 2. Run `aftman install` in this directory and follow the instructions.

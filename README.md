@@ -19,4 +19,4 @@ darklua process --config .darklua.json --watch Source Out
 ## Build (2nd Method)
 1. Download [just](https://github.com/casey/just)
 2. Run `just build` or `just watch` in the directory
-3. If you are using windows, run the command with `just --shell powwershell.exe --shell-arg -c` or add `set shell := ["powershell.exe", "-c"]` at the top of your justfile.
+3. If you are using windows, run the command with `just --shell powershell.exe --shell-arg -c` or add `set shell := ["powershell.exe", "-c"]` at the top of your justfile.

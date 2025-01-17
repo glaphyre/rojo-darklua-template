@@ -1,0 +1,12 @@
+# Project place file
+/Piggy AI.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Out
+/Out
+
+# Rojo Sourcemap
+/sourcemap.json

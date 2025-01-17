@@ -1,0 +1,12 @@
+{
+    "languageMode": "nonstrict",
+    "aliases": {
+        "Character": "Source/Character",
+        "Client": "Source/Client",
+        "Server": "Source/Server",
+        "Libraries": "Source/Libraries",
+        "Shared": "Source/Shared",
+        "Util": "Source/Util",
+        "UI": "Source/UI"
+    }
+}

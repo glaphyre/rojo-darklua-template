@@ -9,6 +9,9 @@
       },
       "Util": {
         "$path": "Out/Util"
+      },
+      "UI": {
+        "$path": "Out/UI"
       }
     },
 

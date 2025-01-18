@@ -9,6 +9,9 @@
       },
       "Util": {
         "$path": "Source/Util"
+      },
+      "UI": {
+        "$path": "Source/UI"
       }
     },
 
